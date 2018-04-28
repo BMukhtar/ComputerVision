@@ -2,9 +2,8 @@ import numpy as np
 import cv2
 from matplotlib import pyplot as plt
 
-img1 = cv2.imread('erdogan_bas.jpg', 0)  # queryImage
-img2 = cv2.imread('erdogan.jpg', 0)  # trainImage
-print(img1)
+img1 = cv2.imread('small.jpg', 0)  # queryImage
+img2 = cv2.imread('large.jpg', 0)  # trainImage
 
 # Initiate SIFT detector
 sift = cv2.xfeatures2d.SIFT_create()

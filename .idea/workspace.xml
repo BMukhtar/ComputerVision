@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3621aeb5-75fa-4b6d-9782-f47c136ee912" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assignmentsMeiramgul/assignment 3/FeatureMatching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignmentsMeiramgul/assignment 3/cv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignmentsMeiramgul/assignment 3/erdogan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignmentsMeiramgul/assignment 3/sample.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignmentsMeiramgul/assignment 6/haarcascade_eye.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignmentsMeiramgul/assignment 6/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignmentsMeiramgul/assignment 6/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignmentsMeiramgul/assignment 6/result_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignments/assignment 2/CannyEdge Detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignments/assignment 2/SDU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignments/assignment 2/cornerHarris.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignments/assignment 2/edge_corner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignments/assignment 3/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignments/assignment 3/small.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assignments/assignment 3/FeatureMatching.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/assignment 3/FeatureMatching.py" afterDir="false" />
     </list>
@@ -23,6 +21,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Computer_Vision$CV_Lab_3___Mouse_as_a_Paint___Brush.coverage" NAME="CV Lab 3 - Mouse as a Paint - Brush Coverage Results" MODIFIED="1519274537533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab 3" />
     <SUITE FILE_PATH="coverage/Computer_Vision$Object_Tracking.coverage" NAME="Object_Tracking Coverage Results" MODIFIED="1524855175408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment 4" />
+    <SUITE FILE_PATH="coverage/Computer_Vision$CannyEdge_Detection.coverage" NAME="CannyEdge Detection Coverage Results" MODIFIED="1524901380300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment 2" />
     <SUITE FILE_PATH="coverage/Computer_Vision$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1521296310958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Computer_Vision$main.coverage" NAME="main Coverage Results" MODIFIED="1524900711491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignmentsMeiramgul/assignment 6" />
     <SUITE FILE_PATH="coverage/Computer_Vision$C_Week_4_Image_Border.coverage" NAME="C Week 4 Image Border Coverage Results" MODIFIED="1520415042535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB4" />
@@ -30,6 +29,7 @@
     <SUITE FILE_PATH="coverage/Computer_Vision$CV_Lab_Week_6___6_Fourier_Transform.coverage" NAME="CV Lab Week 6 - 6 Fourier Transform Coverage Results" MODIFIED="1522297245867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv lab week 6" />
     <SUITE FILE_PATH="coverage/Computer_Vision$CV_Lab_Week_6___1___2_Canny_Edge_Detector.coverage" NAME="CV Lab Week 6 - 1 - 2 Canny Edge Detector Coverage Results" MODIFIED="1522293837071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv lab week 6" />
     <SUITE FILE_PATH="coverage/Computer_Vision$face_D.coverage" NAME="face_D Coverage Results" MODIFIED="1524713867238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 15" />
+    <SUITE FILE_PATH="coverage/Computer_Vision$cornerHarris.coverage" NAME="cornerHarris Coverage Results" MODIFIED="1524901415277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment 2" />
     <SUITE FILE_PATH="coverage/Computer_Vision$CV_Lab_3___Drawing_Function.coverage" NAME="CV Lab 3 - Drawing Function Coverage Results" MODIFIED="1520418665535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab 3" />
     <SUITE FILE_PATH="coverage/Computer_Vision$faceDETECTOR__1_.coverage" NAME="faceDETECTOR (1) Coverage Results" MODIFIED="1524853646858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment 5" />
     <SUITE FILE_PATH="coverage/Computer_Vision$CV_Week_4_Image_adding.coverage" NAME="CV Week 4 Image adding Coverage Results" MODIFIED="1520417857204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB4" />
@@ -39,7 +39,7 @@
     <SUITE FILE_PATH="coverage/Computer_Vision$CV_Lab_Week_6___5_Fourier_Transform.coverage" NAME="CV Lab Week 6 - 5 Fourier Transform Coverage Results" MODIFIED="1522297559648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv lab week 6" />
     <SUITE FILE_PATH="coverage/Computer_Vision$CV_Lab_Week_6___2_Hough_transformation___Lines.coverage" NAME="CV Lab Week 6 - 2 Hough transformation - Lines Coverage Results" MODIFIED="1522294939512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv lab week 6" />
     <SUITE FILE_PATH="coverage/Computer_Vision$FeatureMatching__1_.coverage" NAME="FeatureMatching (1) Coverage Results" MODIFIED="1524900705036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignmentsMeiramgul/assignment 3" />
-    <SUITE FILE_PATH="coverage/Computer_Vision$FeatureMatching.coverage" NAME="FeatureMatching Coverage Results" MODIFIED="1524900328430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment 3" />
+    <SUITE FILE_PATH="coverage/Computer_Vision$FeatureMatching.coverage" NAME="FeatureMatching Coverage Results" MODIFIED="1524900929246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment 3" />
     <SUITE FILE_PATH="coverage/Computer_Vision$CV_Lab_Week_6___3_Hough_transformation___circles.coverage" NAME="CV Lab Week 6 - 3 Hough transformation - circles Coverage Results" MODIFIED="1522295403537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv lab week 6" />
     <SUITE FILE_PATH="coverage/Computer_Vision$CV_Lab_Week_6___4_Fourier_Transform.coverage" NAME="CV Lab Week 6 - 4 Fourier Transform Coverage Results" MODIFIED="1522296790466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv lab week 6" />
     <SUITE FILE_PATH="coverage/Computer_Vision$datatypeConversion.coverage" NAME="datatypeConversion Coverage Results" MODIFIED="1520418234082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w4 p1" />
@@ -53,25 +53,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FeatureMatching.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assignmentsMeiramgul/assignment 3/FeatureMatching.py">
+      <file leaf-file-name="CannyEdge Detection.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignments/assignment 2/CannyEdge Detection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignmentsMeiramgul/assignment 6/main.py">
+      <file leaf-file-name="cornerHarris.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignments/assignment 2/cornerHarris.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            <state relative-caret-position="136">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,9 +113,9 @@
         <option value="$PROJECT_DIR$/assignment1/main.py" />
         <option value="$PROJECT_DIR$/assignments/assignment 5/face_D.py" />
         <option value="$PROJECT_DIR$/assignments/assignment 4/Object_Tracking.py" />
-        <option value="$PROJECT_DIR$/assignments/assignment 3/FeatureMatching.py" />
         <option value="$PROJECT_DIR$/assignmentsMeiramgul/assignment 6/main.py" />
         <option value="$PROJECT_DIR$/assignmentsMeiramgul/assignment 3/FeatureMatching.py" />
+        <option value="$PROJECT_DIR$/assignments/assignment 3/FeatureMatching.py" />
       </list>
     </option>
   </component>
@@ -154,6 +151,12 @@
               <item name="Computer Vision" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer Vision" type="462c0819:PsiDirectoryNode" />
               <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer Vision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer Vision" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
               <item name="assignment 3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -177,23 +180,6 @@
             <path>
               <item name="Computer Vision" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer Vision" type="462c0819:PsiDirectoryNode" />
-              <item name="assignmentsMeiramgul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Computer Vision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Computer Vision" type="462c0819:PsiDirectoryNode" />
-              <item name="assignmentsMeiramgul" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment 3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Computer Vision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Computer Vision" type="462c0819:PsiDirectoryNode" />
-              <item name="assignmentsMeiramgul" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment 6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Computer Vision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Computer Vision" type="462c0819:PsiDirectoryNode" />
               <item name="week 15" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -209,15 +195,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\3EN04A\Computer Vision\assignmentsMeiramgul\assignment 3" />
-      <recent name="D:\3EN04A\Computer Vision\assignmentsMeiramgul" />
-      <recent name="D:\3EN04A\Computer Vision\assignments\assignment 3" />
-      <recent name="D:\3EN04A\Computer Vision\assignments\assignment 5" />
-      <recent name="D:\3EN04A\Computer Vision\assignment1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\3EN04A\Computer Vision\assignments" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\3EN04A\Computer Vision\assignments\assignment 2" />
+      <recent name="D:\3EN04A\Computer Vision\assignments\assignment 3" />
+      <recent name="D:\3EN04A\Computer Vision\assignmentsMeiramgul\assignment 6" />
+      <recent name="D:\3EN04A\Computer Vision\assignmentsMeiramgul\assignment 3" />
+      <recent name="D:\3EN04A\Computer Vision\assignmentsMeiramgul" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -232,7 +218,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.cornerHarris">
+    <configuration name="CannyEdge Detection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Computer Vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/assignment 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/assignment 2/CannyEdge Detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="FeatureMatching (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Computer Vision" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -271,7 +276,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Object_Tracking" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cornerHarris" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Computer Vision" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,31 +284,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/assignment 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/assignment 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/assignment 4/Object_Tracking.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="faceDETECTOR (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Computer Vision" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/assignment 5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/assignment 5/faceDETECTOR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/assignment 2/cornerHarris.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,19 +315,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.faceDETECTOR (1)" />
-      <item itemvalue="Python.Object_Tracking" />
       <item itemvalue="Python.FeatureMatching" />
       <item itemvalue="Python.FeatureMatching (1)" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.cornerHarris" />
+      <item itemvalue="Python.CannyEdge Detection" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cornerHarris" />
+        <item itemvalue="Python.CannyEdge Detection" />
+        <item itemvalue="Python.FeatureMatching" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.FeatureMatching (1)" />
-        <item itemvalue="Python.FeatureMatching" />
-        <item itemvalue="Python.Object_Tracking" />
-        <item itemvalue="Python.faceDETECTOR (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -716,24 +702,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/assignment 4/Object_Tracking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignmentsMeiramgul/assignment 4/Object_Tracking.py" />
-    <entry file="file://$PROJECT_DIR$/assignments/assignment 3/FeatureMatching.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/assignment 6/result_image.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -747,16 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignmentsMeiramgul/assignment 6/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignmentsMeiramgul/assignment 3/FeatureMatching.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
@@ -764,6 +723,56 @@
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignmentsMeiramgul/assignment 6/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/assignment 4/Object_Tracking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="e#84#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/assignment 3/match_result.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/assignment 3/FeatureMatching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/assignment 2/cornerHarris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/assignment 2/CannyEdge Detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
