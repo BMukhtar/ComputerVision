@@ -4,13 +4,11 @@ from matplotlib import pyplot as plt
 
 img1 = cv2.imread('erdogan_bas.jpg', 0)  # queryImage
 img2 = cv2.imread('erdogan.jpg', 0)  # trainImage
-print(img1)
 
 # Initiate SIFT detector
 sift = cv2.xfeatures2d.SIFT_create()
 
 # find the keypoints and descriptors with SIFT
-
 kp1, des1 = sift.detectAndCompute(img1, None)
 kp2, des2 = sift.detectAndCompute(img2, None)
 
